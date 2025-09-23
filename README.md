@@ -1,12 +1,16 @@
-<h1>안녕하세요! 👋 백엔드 개발자 mins 입니다.</h1>
 
+<h1>안녕하세요! 👋 백엔드 개발자 mins 입니다.</h1>
 <p>👩‍💻 Java & Spring과 AWS cloud가 주특기입니다.</p>
+
+[![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/68x68/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/abd7c9f4-6be3-4c93-b83c-1a78684fb077/public_url)
+
+
 
 ---
 
 ### 📜 Certifications
 <p>SQLD (SQL Developer), 2024.06<br>
-  정보처리기사 ("Engineer Information Processing), 2024.06<br>
+  정보처리기사 (Engineer Information Processing), 2024.06<br>
   AWS Certified Solutions Architect - Professional, 2024.01<br>
 </p>
 
@@ -40,17 +44,16 @@
 ---
 
 <h3>🛠 Tech Stack</h3>
-
 <table>
-  <tr>
+    <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
+    </td>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" /><br>Spring
-    </td>
-    <td align="center" width="96">
-      <strong>JSP</strong><br>(Java Server Pages)
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
@@ -61,11 +64,14 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
+    </td>      
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
-    </td>
+          <img src="https://i.namu.wiki/i/G3GKnU02tQiqgsPSbVMs0Tit_7EDiDtVpL_rADAGByn-4WyePRo6y6nPZnirDBMTRUh4dNFfCkixpN0zMLN3b69vf2cqDDCdmzHYef-VE8n8Cr5RyOhjVkylD0ZuYrIs1jp_7EDT_NtrAsqG2-5gwA.webp" width="78" height="78" alt="oracle" /><br>Oracle
+    </td>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
     </td>
@@ -73,33 +79,39 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="AWS" /><br>k8s
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="terraform" /><br>Terraform
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GithubActions-Dark.svg" width="48" height="48" alt="Rest API" /><br>GitAction
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest API" /><br>Rest API
+      <img src="https://velog.velcdn.com/images/1996yyk/post/1537b3b2-00ba-4fb2-9f76-b7a6ab1665d7/image.png" width="78" height="78" alt="Argo" /><br>Argo
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="prometheus" /><br>Prometheus
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" /><br>Elasticsearch
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="grafana" /><br>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/250px-Datadog_logo.svg.png" width="48" height="48" alt="datadog" /><br>Datadog
+    </td>
+    <td align="center" width="96">
+      <img src="https://image.toast.com/aaaaafz/BI/3f57a5a8-8ee0-4758-b096-13ccbb52c069_224.png" width="48" height="48" alt="WhaTap" /><br>WhaTap
     </td>
   </tr>
 </table>
@@ -110,13 +122,13 @@
 
 | 프로젝트명 | 설명 | 기술 스택 | 기간 |
 |-----------|------|-----------|------|
-| 🏫 [그린대학교 시스템 팀 프로젝트](https://github.com/susu2407/MPGreen.git) | JSP 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.08(1 week) |
-| 🛒 [AWS EKS 인프라 구축 프로젝트](https://github.com/2MIRACLE-BTC/2MIR-FP.git) | EKS와 Terraform을 활용한 Cloud Native MSA 인프라 구축 프로젝트| EKS, ERM, Terraform, Argo, Git Action, Prometheus, Grafana, DataDog | 2023.12(5 week) |
+| 🏫 [그린대학교 시스템 팀 프로젝트](https://github.com/susu2407/MPGreen.git) | JSP 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.08(1w) |
+| 🛒 [AWS EKS 인프라 구축 프로젝트](https://github.com/2MIRACLE-BTC/2MIR-FP.git) | EKS와 Terraform을 활용한 Cloud Native MSA 인프라 구축 프로젝트| EKS, ERM, Terraform, Argo, Git Action, Prometheus, Grafana, DataDog | 2023.12(5w) |
 
 > 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
 ---
 
 ### 📫 Contact
-email: zxy0575@naver.com
+email: zxy0575@naver.com<br>
 tel: 010-8474-5092
 ---
