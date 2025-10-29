@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-          <img src="https://i.namu.wiki/i/G3GKnU02tQiqgsPSbVMs0Tit_7EDiDtVpL_rADAGByn-4WyePRo6y6nPZnirDBMTRUh4dNFfCkixpN0zMLN3b69vf2cqDDCdmzHYef-VE8n8Cr5RyOhjVkylD0ZuYrIs1jp_7EDT_NtrAsqG2-5gwA.webp" width="78" height="78" alt="oracle" /><br>Oracle
+          <img src="images/오라클_로고.png" width="78" height="78" alt="oracle" /><br>Oracle
     </td>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
