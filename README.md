@@ -1,5 +1,5 @@
 
-<h1>안녕하세요! 👋 백엔드 개발자 mins 입니다.</h1>
+<h1>안녕하세요! 👋 인프라 엔지니어 & 백엔드 개발자 mins 입니다.</h1>
 <p>👩‍💻 Java & Spring과 AWS cloud가 주특기입니다.</p>
 
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/68x68/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/abd7c9f4-6be3-4c93-b83c-1a78684fb077/public_url)
@@ -130,5 +130,5 @@
 
 ### 📫 Contact
 email: zxy0575@naver.com<br>
-tel: 010-8474-5092
+tel: 잠시 비공개합니다.
 ---
