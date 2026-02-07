@@ -122,8 +122,9 @@
 
 | 프로젝트명 | 설명 | 기술 스택 | 기간 |
 |-----------|------|-----------|------|
-| 🏫 [그린대학교 시스템 팀 프로젝트](https://github.com/susu2407/MPGreen.git) | JSP 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.08(1w) |
-| 🛒 [AWS EKS 인프라 구축 프로젝트](https://github.com/2MIRACLE-BTC/2MIR-FP.git) | EKS와 Terraform을 활용한 Cloud Native MSA 인프라 구축 프로젝트| EKS, ERM, Terraform, Argo, Git Action, Prometheus, Grafana, DataDog | 2023.12(5w) |
+| [BNSY_BOT 프로젝트](https://github.com/cms8474/BNSY_BOT) | 로컬 LLM을 활용한 개인 챗봇 어시스턴트 | Spring, JSP, MyBatis, Oracle 21c, Ollama | 2026.01(1w) |
+| [그린대학교 시스템 팀 프로젝트](https://github.com/susu2407/MPGreen.git) | JSP 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.08(1w) |
+| [AWS EKS 인프라 구축 프로젝트](https://github.com/2MIRACLE-BTC/2MIR-FP.git) | EKS와 Terraform을 활용한 Cloud Native MSA 인프라 구축 프로젝트| EKS, ERM, Terraform, Argo, Git Action, Prometheus, Grafana, DataDog | 2023.12(5w) |
 
 > 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
 ---
